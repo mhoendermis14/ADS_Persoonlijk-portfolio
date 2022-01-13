@@ -1,3 +1,14 @@
 # ADS_Persoonlijk-portfolio
 
-here we go again!
+Naam: Maria Hoendermis\
+Studentnumner: 19105576\
+Opleiding: Civiele techniek
+
+### Inhoudsopgave 
+
+[Reflectie](#reflectie)\
+[DataCamp](#datacamp)\
+[Onderzoek](#onderzoek)
+
+### Reflectie 
+
