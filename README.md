@@ -1,5 +1,5 @@
 # ADS_Persoonlijk-portfolio
-
+<a href="https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Taak_definitie_ADS.pdf">Taak definitie</a>
 Naam: Maria Hoendermis\
 Studentnumner: 19105576\
 Opleiding: Civiele techniek
@@ -21,9 +21,23 @@ Voor de reflectie van de minor verwijs ik door naar de volgende link: [Reflectie
 
 <details open>
 <summary>Taak definitie</summary>
-<br>
-Well, you asked for it!
+  
+Zie link: [Taak definitie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Taak_definitie_ADS.pdf).
+  
 </details>
 
+<details open>
+<summary>Evaluatie</summary>
+  
+Zie link: [Evaluatie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Evaluatie_ADS.pdf).
+  
+</details>
+
+<details open>
+<summary>Conclusies</summary>
+  
+Zie link: [Conclusies](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Evaluatie_ADS.pdf).
+  
+</details>
 
 
