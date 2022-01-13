@@ -11,4 +11,8 @@ Opleiding: Civiele techniek
 [Onderzoek](#onderzoek)
 
 ### Reflectie 
+Voor de reflectie van de minor verwijs ik door naar de volgende link: [Reflectie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Reflectie_ADS.pdf).
+
+### DataCamp
+
 
