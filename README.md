@@ -75,7 +75,7 @@ Tot slot heb ik samen met David een Learning Lab voorbereid en gepresenteerd. De
 <details open>
 <summary>Paper</summary>
  
-
+Ik heb veel tijd gestoken in de paper. Ik heb delen van de resultaten, discussie, conclusie en de erkenning geschreven. Daarnaast ook voor input gezorgd voor de abstract en recommendations. [Hier](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/paper-mijnstukken.pdf) is de paper te vinden, alle stukken waar ik verantwoordelijk voor ben geweest zijn geel gemarkeerd. 
   
 </details>
 
