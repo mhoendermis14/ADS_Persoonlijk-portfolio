@@ -54,10 +54,25 @@ Om het project te organiseren gebruikten we scrum. Hier gebruikten we de site Ta
 </details>
 
 ### Predictive Analytics
+Als ik kijk naar mijn bijdrage aan het model, dan heb ik er niet veel aan gedaan. Ik heb mij op andere onderdelen van de minor gefocust en ben op mijn eigen tempo Python gaan leren door DataCamp te volgen en tutorials te kijken op Youtube. Een model dat ik heb geschreven bestaat uit een DecisiconTreeClassifier, deze is [hier](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/DecisionTreeClassifier.pdf) te vinden. Dit heeft geen aansluiting op het project, maar laat wel zien dat ik in staat ben om een model te trainen.
 
 ### Domain Knowledge
 
+<details open>
+<summary>Terminologie</summary>
+ MFCC = Mel Frequency Mel Coefficient, een MFCC laat de vorm van geluid zien
+ CNN = Convolutional Neural Network, 
+  Overfitting =
+  Underfitting=
+  Feature=
+  Hyperparameter =
+
+  
+</details>
+
 ### Data Preprocessing
+Om te oefenen met data preprocessing heb ik een notebook gemaakt met meerdere visualisaties van de iris dataset, zie: [Data_visualisatie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/data%20visualisatie.pdf). 
+Voor het tweede model van het project wilden we in eerste instantie twee spectrogrammen met elkaar vergelijken om te achterhalen of het verschillende personen waren. Uiteindelijk hebben we een andere manier bedacht dan deze spectrogrammen, hier is de notebook die ik daarvoor heb gemaakt: [combineren spectrogram](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Combining%20images.pdf).
 
 ### Communicatie
 
@@ -86,3 +101,4 @@ In mijn vrije tijd ben ik tijd gaan besteden in Powershell, het leek mij leuk om
 Ook heb ik een notebook geschreven om zipfiles uit te pakken en op te slaan in een map, die is [hier](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/zipextract.pdf) te vinden.
 
 ### Conclusie
+Aan het eind van deze minor kijk ik met veel plezier terug op wat ik het afgelopen halfjaar heb geleerd. Het is enorm buiten mijn comfortzone geweest, en dan vond ik best even wennen. Ik ben ook enorm blij dat ik in team Dialogue terecht ben gekomen, de goede sfeer in de groep en het leuke project maakte het een enorm leuk halfjaar. Ik ben daarom ook blij dat ik deze minor heb gekozen. De kennis die ik hier heb opgedaan kan ik ook echt gaan gebruiken in de rest van mijn opleiding en in het werkveld later, dat vind ik erg leuk. 
