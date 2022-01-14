@@ -1,5 +1,5 @@
 # ADS_Persoonlijk-portfolio
-<a href="https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Taak_definitie_ADS.pdf">Taak definitie</a>
+
 Naam: Maria Hoendermis\
 Studentnumner: 19105576\
 Opleiding: Civiele techniek
@@ -8,7 +8,13 @@ Opleiding: Civiele techniek
 [Introductie](#introductie)\
 [Reflectie](#reflectie)\
 [DataCamp](#datacamp)\
-[Onderzoek](#onderzoek)
+[Onderzoek](#onderzoek)\
+[Predictive Analytics](#predictive-analytics)\
+[Domain Knowledge](#domain-knowledge)\
+[Data Preprocessing](#data-preprocessing)\
+[Communicatie](#communicatie)\
+[Overig bewijsmateriaale](#overig-bewijsmateriaal)\
+[Conclusie](#conclusie)
 
 
 ### Introductie
