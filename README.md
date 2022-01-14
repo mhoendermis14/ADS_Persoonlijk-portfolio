@@ -64,6 +64,17 @@ Om het project te organiseren gebruikten we scrum. Hier gebruikten we de site Ta
 <details open>
 <summary>Presentaties</summary>
   
+De eerste presentatie die ik gaf was met heel de projectgroep samen, het ging om een interne presentatie. ik deed de introductie van de presentatie. Zie: [2e interne presentatie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/second%20presentation.pdf)\
+De tweede presentatie was de eerste externe presentatie, zie: [1e externe presentatie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/First%20External%20Presentation.pdf). Ook deze presentatie hielden we met de hele projectgroep. Ik deed de slides 'goal'en 'projectgoal'.\
+De laatste twee presentaties die ik hield waren externe presentaties die ik samen deed met Bjorn. Zie: [2e externe presentatie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Second%20External%20Presentation.pdf), [3e externe presentatie](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Third%20External%20Presentation.pdf).
+  
+Tot slot heb ik samen met David een Learning Lab voorbereid en gepresenteerd. De Learning Lab is [hier](https://prezi.com/view/thqP2twqtJYNy0Mc3jK8/) te vinden. Voor deze Learning Lab heb ik een notebook geschreven, zie: [notebook_LL](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Learning%20Lab%20-%20Images%20(1).pdf).
+  
+</details>
+
+<details open>
+<summary>Paper</summary>
+ 
 
   
 </details>
