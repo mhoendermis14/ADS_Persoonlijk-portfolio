@@ -63,17 +63,18 @@ Om het project te organiseren gebruikten we scrum. Hier gebruikten we de site Ta
 Als ik kijk naar mijn bijdrage aan het model, dan heb ik er niet veel aan gedaan. Ik heb mij op andere onderdelen van de minor gefocust en ben op mijn eigen tempo Python gaan leren door DataCamp te volgen en tutorials te kijken op Youtube. Een model dat ik heb geschreven bestaat uit een DecisiconTreeClassifier, deze is [hier](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/DecisionTreeClassifier.pdf) te vinden. Dit heeft geen aansluiting op het project, maar laat wel zien dat ik in staat ben om een model te trainen.
 
 ### Domain Knowledge
+Om een spraak te detecteren in audio is er gebruikt gemaakt van MFCC's en een CNN. De audio die wij in bezit hadden gebruikten we om spectrogram data van te maken. Deze data vormden we om tot een MFCC, omdat dit volgens de literatuur het beste werkt voor spraakherkenning. Deze MFCC's werden daarna aan de CNN gegeven die een uitkomst gaf, 'ja' er is spraak, of 'nee' er is geen spraak. Met deze uitkomst hadden we een fundamentele basis gelegd voor het andere model. Het tweede model focust zich op het vergelijken van de stukjes spraak uit het eerste model, en geeft als uitkomst: 'Het is dezelfde spreker' of 'het is niet dezelfde spreker'.
 
 <details open>
 <summary>Terminologie</summary>
- MFCC = Mel Frequency Mel Coefficient, een MFCC laat de vorm van geluid zien
- CNN = Convolutional Neural Network, 
-  Overfitting =
-  Underfitting=
-  Feature=
-  Hyperparameter =
+ MFCC = Mel Frequency Mel Coefficient, een MFCC laat de vorm van geluid zien.\
+ CNN = Convolutional Neural Network is een vorm van een Neural Network. Het wordt het meest gebruikt om visualisatie te analyseren, zoals het herkennen van handschrift. Of het verschil tussen een hond en een kat.\
+  Overfitting = Dit treedt op wanneer het model te complex is en het trainingsgeheugen gaan onthouden.\
+  Underfitting= Dit treedt op wanneer het model te simpel is, er zijn niet genoeg parameters gebruikt.\
+  Feature = Dit is een variabele die je gebruikt om een voorspelling te maken voor de 'target'.\
+  Hyperparameter = Dit zijn parameters zoals de learning rate, maximale diepte. Ze worden getuned in de validatie set. 
 
-  
+
 </details>
 
 ### Data Preprocessing
