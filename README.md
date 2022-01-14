@@ -61,7 +61,17 @@ Om het project te organiseren gebruikten we scrum. Hier gebruikten we de site Ta
 
 ### Communicatie
 
+<details open>
+<summary>Presentaties</summary>
+  
+
+  
+</details>
+
+
 ### Overig bewijsmateriaal
-In mijn vrije tijd ben ik tijd gaan besteden in Powershell, het leek mij leuk om hier iets over te leren. Ik kwam erachter dat de functies uit Powershell van pas kwamen op mijn werk, daarom heb ik een handleiding geschreven. Ik voeg de handleiding hier toe, niet omdat het een criterium is van het portfolio, maar omdat ik het leuk vond om te maken en het wil delen. 
+In mijn vrije tijd ben ik tijd gaan besteden in Powershell, het leek mij leuk om hier iets over te leren. Ik kwam erachter dat de functies uit Powershell van pas kwamen op mijn werk, daarom heb ik een handleiding geschreven. Ik voeg de handleiding [hier](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/Powershell_hernoemen.pdf) toe, niet omdat het een criterium is van het portfolio, maar omdat ik het leuk vond om te maken en het wil delen. 
+
+Ook heb ik een notebook geschreven om zipfiles uit te pakken en op te slaan in een map, die is [hier](https://github.com/mhoendermis14/ADS_Persoonlijk-portfolio/blob/main/zipextract.pdf) te vinden.
 
 ### Conclusie
