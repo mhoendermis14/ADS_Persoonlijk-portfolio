@@ -67,12 +67,13 @@ Om een spraak te detecteren in audio is er gebruikt gemaakt van MFCC's en een CN
 
 <details open>
 <summary>Terminologie</summary>
- MFCC = Mel Frequency Mel Coefficient, een MFCC laat de vorm van geluid zien.\
- CNN = Convolutional Neural Network is een vorm van een Neural Network. Het wordt het meest gebruikt om visualisatie te analyseren, zoals het herkennen van handschrift. Of het verschil tussen een hond en een kat.\
-  Overfitting = Dit treedt op wanneer het model te complex is en het trainingsgeheugen gaan onthouden.\
-  Underfitting= Dit treedt op wanneer het model te simpel is, er zijn niet genoeg parameters gebruikt.\
-  Feature = Dit is een variabele die je gebruikt om een voorspelling te maken voor de 'target'.\
-  Hyperparameter = Dit zijn parameters zoals de learning rate, maximale diepte. Ze worden getuned in de validatie set. 
+  
+MFCC = Mel Frequency Mel Coefficient, een MFCC laat de vorm van geluid zien.\
+CNN = Convolutional Neural Network is een vorm van een Neural Network. Het wordt het meest gebruikt om visualisatie te analyseren, zoals het herkennen van handschrift. Of het verschil tussen een hond en een kat.\
+Overfitting = Dit treedt op wanneer het model te complex is en het trainingsgeheugen gaan onthouden.\
+Underfitting= Dit treedt op wanneer het model te simpel is, er zijn niet genoeg parameters gebruikt.\
+Feature = Dit is een variabele die je gebruikt om een voorspelling te maken voor de 'target'.\
+Hyperparameter = Dit zijn parameters zoals de learning rate, maximale diepte. Ze worden getuned in de validatie set.\
 
 
 </details>
